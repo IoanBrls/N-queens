@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1527463940 source:/home/lilio/Desktop/AI n-queens/N-queens/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<math.h>
+
+1527468424 source:c:\users\ibrellas\desktop\n-queens\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<math.h>
+
